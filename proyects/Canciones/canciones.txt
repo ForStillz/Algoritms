@@ -1,0 +1,690 @@
+DLD,Arsénico,Primario
+DLD,Necesidad,Primario
+DLD,Animal,Primario
+DLD,Sea,Primario
+DLD,Todo Cuenta,Primario
+DLD,Estaré,Futura
+DLD,Tóxico,Ocho
+DLD,Por Siempre,Por Encima
+DLD,Después de Ti,Por Encima
+DLD,Mi Voz,Primario
+Imagine Dragons,Follow You,Cutthroath
+Imagine Dragons,Bones,Mercury - Acts 1 & 2 
+Imagine Dragons,Whatever It Takes,Evolve
+Imagine Dragons,GiantsMercury , Acts 1 & 2 
+Imagine Dragons,Mercury , Acts 1 & 2 
+Imagine Dragons,Sharks,Mercury - Acts 1 & 2 
+Imagine Dragons,I Don't Like Myself,Mercury - Acts 1 & 2 
+Imagine Dragons,Waves,Mercury - Acts 1 & 2
+Imagine Dragons,Amsterdam,Night Visions
+Imagine Dragons,Monster,Smoke + Mirrors (Deluxe)
+Wos,Contando Ovejas,Oscuro Extasis
+Wos,Arrancarmelo,Arrancarmelo - Sencillo
+Wos,Okupa,Caravana
+Wos,Culpa,Oscuro Extasis
+Wos,Mirá Mamá,Oscuro Extasis
+Wos,Pared De Cristal,Oscuro Extasis
+Wos,Descartable,Descartable - Sencillo
+Wos,Fresco,Caravana
+Wos,Luz Delito,Caravana
+Wos,Andrómeda,zAndrómeda - Sencillo
+Twenty One Pilots,Cut My Lip,Trench
+Twenty One Pilots,Good Day,Scaled And Icy
+Twenty One Pilots,Shy Away,Scaled And Icy
+Twenty One Pilots,Bounce Man,Scaled And Icy
+Twenty One Pilots,Redecorate,Scaled And Icy
+Twenty One Pilots,My Blood,Trench
+Twenty One Pilots,Smithereens,Trench
+Twenty One Pilots,Lane Boy,Blurryface
+Twenty One Pilots,Christmas Saves The Year,Christmas Saves The Year - Single
+Twenty One Pilots,We Don´t Believe What´s on Tv,Blurryface
+The 1975,Anobrain,Music For Cars EP
+The 1975,Chocolate,Music For Cars EP
+The 1975,HNSCC,Music For Cars EP
+The 1975,Head.Cars.Bending,Music For Cars EP
+The 1975,Me,Music For Cars EP
+The 1975,Somebody Else,Somebody Else
+The 1975,The City,Deluxe The 1975
+The 1975,fallingforyou,Deluxe The 1976
+The 1975,Robbers,Deluxe The 1977
+The 1975,Heart Out,Deluxe The 1978
+The neighbourhood,Sweater Weather,I Love You
+The neighbourhood,Let It Go,I Love You
+The neighbourhood,Float,I Love You
+The neighbourhood,Prey,Wiped Out!
+The neighbourhood,Cry Baby,Wiped Out!
+The neighbourhood,The Beach,Wiped Out!
+The neighbourhood,Daddy Issues,Wiped Out!
+The neighbourhood,A Moment of Silence,Wiped Out!
+The neighbourhood,Ferrari,Wiped Out!
+The neighbourhood,Single,Wiped Out!
+Phil Collins,In the Air Tonight,Face Value
+Phil Collins,Another Day in Paradise,But Seriously
+Phil Collins,Easy Lover,Chinese Wall
+Phil Collins,Sussudio,No Jacket Required
+Phil Collins,You Can't Hurry Love,Hello, I Must Be Going!
+Phil Collins,One More Night,No Jacket Required
+Phil Collins,I Don't Care Anymore,Hello, I Must Be Going!
+Phil Collins,Dance into the Light,Dance into the Light
+Phil Collins,Take Me Home,No Jacket Required
+Phil Collins,Against All Odds ,Against All Odds
+Rufus Wainright,Hallelujah,Vibrate
+Rufus Wainright,Complainte De La Butte,Vibrate
+Rufus Wainright,A wanderer in the sleeping city,A wanderer in the sleeping city
+Rufus Wainright,cigarrettes and chocolate milk,Poses
+Rufus Wainright,Going to a Town,Release the Stars
+Rufus Wainright,The Art Teacher,Want One
+Rufus Wainright,Out of the Game,Out of the Game
+Rufus Wainright,Oh What a World,Want One
+Rufus Wainright,Candles,Rufus Wainwright
+Rufus Wainright,Across the Universe,I Am Sam
+Kanye West,Famous,The life of Pablo
+Kanye West,Runaway,My beautiful dark twisted fantasy
+Kanye West,i thought about killing you,Ye
+Kanye West,Ghost town,Ye
+Kanye West,Violent crimes,Ye
+Kanye West,Power,My Beautiful Dark Twisted Fantasy
+Kanye West,Monster,My Beautiful Dark Twisted Fantasy
+Kanye West,devil in a new dress,My Beautiful Dark Twisted Fantasy
+Kanye West,I wonder,Graduation
+Kanye West,Flashing lights,Graduation
+Natanael Cano,Diamantes,A mis 20
+Natanael Cano,En el cielo o en el infierno,A mis 20
+Natanael Cano,Porte exuberante,A mis 20
+Natanael Cano,Cuento,NataKong
+Natanael Cano,Brillo,NataKong
+Natanael Cano,Ch y Pizza,Pa que hablen
+Natanael Cano,Amor tumbado,Mi nuevo yo
+Natanael Cano,PCR,PCR
+Natanael Cano,El de la codeina,Todo es diferente
+Natanael Cano,Morritas,Morritas
+Dani Flow,Las que no tienen papá,Las que no tienen papá
+Dani Flow,Vector,Vector
+Dani Flow,Morbo queen,Morbo queen
+Dani Flow,Trépate 2,Trépate 2
+Dani Flow,Te vas,Te vas
+Dani Flow,Bellakeo,Bellakeo
+Dani Flow,Malas mañas,Malas mañas
+Dani Flow,Farsa,Farsa
+Dani Flow,Ok,Ok
+Dani Flow,Sabor a mí,Sabor a mí
+XavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffXX,Bone Saw,Gore
+XavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffXX,Pneumonoultramicroscopicsilicovolcanoconiosis,Gore
+XavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffXX,Gore,Gore
+XavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffXX,Space Cowboys,Gore 2.0
+XavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffXX,Sentient Black Hole,Gore 2.0
+XavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffXX,March of the ants,Gore 2.0
+XavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffXX,Smokebreak,Gore 2.0
+XavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffXX,Veil of Moonlight,Gore 2.0
+XavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffXX,Strainus Diabolica,Gore 2.0
+XavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffXX,Surfs Up Goths,Gore 2.0
+XavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffXX,Monkey Noises,Gore 2.0
+Blackpink,BOOMBAYAH,BLACKPINK IN YOUR AREA 
+Blackpink,STAY ,BLACKPINK IN YOUR AREA
+Blackpink,AS IF IT`S YOUR LAST ,BLACKPINK IN YOUR AREA
+Blackpink,FOREVER YOUNG,BLACKPINK IN YOUR AREA
+Blackpink,DDU-DU DDU-DU,BLACKPINK IN YOUR AREA
+Blackpink,How you like that ,THE ALBUM
+Blackpink,Ice cream ,THE ALBUM
+Blackpink,Loversick Girls,THE ALBUM
+Blackpink,Tally,BORN PINK 
+Blackpink,Shut Down,BORN PINK
+Ariana Grande ,Break Free,My everyting
+Ariana Grande ,Into you ,Dangerous Woman
+Ariana Grande ,Greedy ,Dangerous Woman
+Ariana Grande ,REM,Sweetener
+Ariana Grande ,sweetener,Sweetener
+Ariana Grande ,God is a woman,Sweetener
+Ariana Grande ,needy,thank u, next
+Ariana Grande ,bloodline,thank u, next
+Ariana Grande ,34+35,Positions
+Ariana Grande ,pov,Positions
+Sam Smith,Too Good At Goodbyes,The Thrill of it All
+Sam Smith,I'm Not the Only One,In the Lonely Hour
+Sam Smith,I'm Not Here To Make Friends,Gloria
+Sam Smith,Unholy,Gloria
+Sam Smith,Love Me More,Gloria
+Sam Smith,We Love Who We Love,Gloria
+Sam Smith,Stay with me,In the Lonely Hour
+Sam Smith,I'm Ready,Love Goes
+Sam Smith,Dancing with a stranger,Love Goes
+Sam Smith,Fire on fire,Love Goes
+Bruno Mars,Grenade,Doo-Wops & Hooligans
+Bruno Mars,Just the way you are,Doo-Wops & Hooligans
+Bruno Mars,Finesse,24K Magic
+Bruno Mars,It will rain,It will rain
+Bruno Mars,That's what I like,24K Magic
+Bruno Mars,Fly As Me,An Evening with Silk Sonic
+Bruno Mars,Leave the Door Open,An Evening with Silk Sonic
+Bruno Mars,Talking to the Moon,Doo-Wops & Hooligans
+Bruno Mars,24K Magic,24k Magic
+Bruno Mars,Locked Out of Heaven,Unorthdoc Jukebos
+Aurora,Runaway,All My Demons Greeting Me as a Friend (Deluxe)
+Aurora,Cure For Me,The Gods We Can Touch
+Aurora,Exist for Love ,The Gods We Can Touch
+Aurora,Half the World Away,All My Demons Greeting Me as a Friend (Deluxe)
+Aurora,The seed,The Gods We Can Touch
+Aurora,Everythings Matters,The Gods We Can Touch
+Aurora,Heathens,The Gods We Can Touch
+Aurora,Blood In The Wine,The Gods We Can Touch
+Aurora,Hunting Shadows,Hunting Shadows
+Aurora,A Potion For Love,A Potion For Love
+The Weeknd,false Alarm ,Starboy
+The Weeknd,Die For You ,Starboy
+The Weeknd,Starboy,Starboy
+The Weeknd,Blinding Lights,After Hours
+The Weeknd,I Feel It Coming,Starboy
+The Weeknd,In Your Eyes,After Hours
+The Weeknd,Sacrifice,Dawn FM (Alternate World)
+The Weeknd,Save Your Tears ,After Hours
+The Weeknd,Call Out My Name ,My Dear Melancholy 
+The Weeknd,Secrets,Starboy
+FERXXO,Amor de Mi Vida,INTER SHIBUYA (FERXXO EDITION)
+FERXXO,Fumeteo,INTER SHIBUYA (FERXXO EDITION)
+FERXXO,Remix Exclusivo,Remix Exclusivo
+FERXXO,Normal,Normal
+FERXXO,FERXXO X Ñejo,BAHIA DUCATI
+FERXXO,Castigo,FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ALBUM
+FERXXO,Yandel 150,Yandel 150
+FERXXO,Ferxxo 100,FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ALBUM
+FERXXO,PURRITO APA,INTER SHIBUYA (FERXXO EDITION)
+FERXXO,SI TU SUPIERAS,INTER SHIBUYA (FERXXO EDITION)
+Twice,Trouble,BETWEEN 1&2
+Twice,Basics,BETWEEN 1&2
+Twice,Real You,Formula of Love O+T=<3
+Twice,The Feels,Formula of Love O+T=<3
+Twice,Scientist,Formula of Love O+T=<3
+Twice,PUSH & PULL (JIHYO, SANA, DAHYUN),Formula of Love O+T=<3
+Twice,Talk that Talk,BETWEEN 1&2
+Twice,I CANT STOP ME,Eyes Wide Open
+Twice,UP NO MORE,Eyes Wide Open
+Twice,SAY SOMETHING,Eyes Wide Open
+Junior H,Esta Vida,Mi Vida En Un Cigarro 2
+Junior H,Que Siga La Mata Dando,Mi Vida En Un Cigarro 2
+Junior H,Extssy Model,Mi Vida En Un Cigarro 2
+Junior H,Numero 7,Mi Vida En Un Cigarro 2
+Junior H,El Nene,Mi Vida En Un Cigarro 2
+Junior H,El Pelos,Mi Vida En Un Cigarro 2
+Junior H,Intro,Cruisin with Junior H
+Junior H,No Me Pesa,Cruisin with Junior H
+Junior H,Libros y Libretas,Cruisin with Junior H
+Junior H,Ojos Colorados,Cruisin with Junior H
+Eladio Carrión ,Vida Buena,Sauce Boyz
+Eladio Carrión ,Hielo,Sauce Boyz
+Eladio Carrión ,0,125,Sauce Boyz
+Eladio Carrión ,Mala Mia,Sauce Boyz
+Eladio Carrión ,Actriz,Sauce Boyz
+Eladio Carrión ,Par de Tenis,Sauce Boyz 2
+Eladio Carrión ,Claro Cristal,Sauce Boyz 2
+Eladio Carrión ,Flores en Anonimo,Sauce Boyz 2
+Eladio Carrión ,Fuego,Sauce Boyz 2
+Eladio Carrión ,Miradas Raras,Sauce Boyz 2
+Tyler, the creator,Yonkers,Goblin
+Tyler, the creator,Tron Cat,Goblin
+Tyler, the creator,Jamba,Wolf
+Tyler, the creator,Earfquake,IGOR
+Tyler, the creator,Running Out Of Time,IGOR
+Tyler, the creator,Gone, Gone/Thank You,IGOR
+Tyler, the creator,New Magic Wand,IGOR
+Tyler, the creator,See You Again,Flower Boy
+Tyler, the creator,Glitter,Flower Boy
+Tyler, the creator,Where This Flower Blooms,Flower Boy
+Foo Fighters,The Pretender,Echoes, SIlence, Patience & Grace
+Foo Fighters,Everlong,The Colour and the Shape
+Foo Fighters,Rope,Wasting Light
+Foo Fighters,All My Life,One by One
+Foo Fighters,Walk,Wasting Light
+Foo Fighters,My Hero,The Colour and the Shape
+Foo Fighters,Learn To Fly,There is Nothing Left to Lose
+Foo Fighters,Best Of You,In Your Honor
+Foo Fighters,Resolve,In Your Honor
+Foo Fighters,Long Road To Ruin,Echoes, Silence, Patience & Grace
+Joji,Slow Dancing In The Dark,Ballads 1
+Joji,Yeah Right,Ballads 1
+Joji,Run,Nectar
+Joji,Ew,Nectar
+Joji,Modus,Nectar
+Joji,Daylight,Nectar
+Joji,Gimme Love,Nectar
+Joji,Sanctuary,Nectar
+Joji,Die For You,Smithereens
+Joji,Dissolve,Smithereens
+The Strokes,Selfless,The New Abnormal
+The Strokes,Hard To Explain,Is This It
+The Strokes,Last Nite,Is This It
+The Strokes,Welcome To Japan,Comedown Machine
+The Strokes,Machu Picchu,Angles
+The Strokes,Taken For A Fool,Angles
+The Strokes,You Only Live Once,First Impressions Of Earth
+The Strokes,Juicebox,First Impressions Of Earth
+The Strokes,Call It Fate, Call It Karma,Comedown Machine
+Kali Uchis,telepatía, Sin Miedo (del Amor y Otros Demonios) 
+Kali Uchis,la luna enamorada,Sin Miedo (del Amor y Otros Demonios)
+Kali Uchis, fue mejor,Sin Miedo (del Amor y Otros Demonios)
+Kali Uchis,vaya con dios,Sin Miedo (del Amor y Otros Demonios)
+Kali Uchis,Moonlight,Red Moon in Venus
+Kali Uchis,Hasta Cuando,Red Moon in Venus 
+Kali Uchis,Dead to me,Isolation
+Kali Uchis,I wish you Roses,Red Moon in Venus 
+Kali Uchis,Melting,Por vida
+Kali Uchis,Gotta Get Up,Isolation
+Taylor Swift,I did something bad,reputation 
+Taylor Swift,Look what you made me do, reputation 
+Taylor Swift,End Game,reputation 
+Taylor Swift,Getaway car  , reputation 
+Taylor Swift,Style,1989
+Taylor Swift,Wildest dreams,1989
+Taylor Swift,Anti-hero,Midnights
+Taylor Swift,Lavander Haze , Midnights
+Taylor Swift,Bejeweled,Midnights
+Taylor Swift,All too well (Taylor's Version),Red (Taylor's Version)
+Lana del Rey,Florida Kilos,Ultraviolence
+Lana del Rey,West Coast,Ultraviolence
+Lana del Rey,Broolyn Baby,Ultraviolence
+Lana del Rey,Ciannamon Girl,Norman Fucking Rockwell
+Lana del Rey,How to disappear,Norman Fucking Rockwell
+Lana del Rey,Born to Die,Born to Die
+Lana del Rey,Video Games,Born to Die
+Lana del Rey,Radio,Born to Die
+Lana del Rey,Diet Mountain Dew,Born to Die
+Lana del Rey,National Anthem,Born to Die
+Drake,Redemption,Views
+Drake,Hold on, We Are Going Home,Nothing Was The Same
+Drake,Furthest Thing,Nothing Was The Same
+Drake,Marvins Room,Take Care
+Drake,Crew Love,Take Care
+Drake,Headlines,Take Care
+Drake,From Florida With Love,Dark Lane Demo Tapes
+Drake,Desires,Dark Lane Demo Tapes
+Drake,Girls Want Girls,Certified Lover Boy
+Drake,Race My Mind,Certified Lover Boy
+Luis Miguel,Sabor a mi,Romances
+Luis Miguel,Eres tu,Soy como quiero ser 
+Luis Miguel,Ahora te puedes marchar ,Soy como quiero ser 
+Luis Miguel,Frio como el viento,Busca una mujer
+Luis Miguel,La incondicional ,Busca una mujer 
+Luis Miguel,Sin ti ,Segundo romance
+Luis Miguel,Como duele ,Mis romances
+Luis Miguel,Sabes una cosa,Mexico en la piel 
+Luis Miguel,Nosotros dos ,Directo al corazon 
+Luis Miguel,Por debajo de la mesa ,Sencillo
+Jose Jose ,Lo dudo ,Secretos
+Jose Jose ,Almohada ,Lo pasado pasado
+Jose Jose ,El amar y querer ,Reencuentro
+Jose Jose ,He renunciado a ti ,Secretos
+Jose Jose ,Lo pasado, pasado ,Lo pasado, pasado 
+Jose Jose ,40 y 20,40 y 20
+Jose Jose ,Si me dejas ahora ,Si me dejas ahora 
+Jose Jose ,El amor acaba ,Secretos 
+Jose Jose ,Desesperado ,Mi vida
+Jose Jose ,El triste ,El triste 
+5SOS,High,CALM
+5SOS,Old me,CALM
+5SOS,Teeth,CALM
+5SOS,Lie to me,Youngblood
+5SOS,More,Youngblood
+5SOS,Ghost of you,Youngblood
+5SOS,Want you back,Youngblood
+5SOS,Take my hand,5SOS5
+5SOS,CAROUSEL,5SOS5
+5SOS,Me myself and I,5SOS5
+BTS,Louder than bombs,Map of the soul
+BTS,On,Map of the soul
+BTS,My time,Map of the soul
+BTS,Blue and grey,Be
+BTS,Dynamite,Be
+BTS,Blood sweat and tears,Wings
+BTS,Begin,Wings
+BTS,First love,Wings
+BTS,Euphoria,Love yourself answer
+BTS,Idol,Love yourself answer
+Enhypen,Shout out ,Manifesto: Day 1
+Enhypen,Future perfect (Pass the mic),Manifesto: Day 1
+Enhypen,GIven-taken ,Border: Day one
+Enhypen,Bite me ,Dark blood
+Enhypen,Blessed-cursed,Dimension: Answer
+Enhypen,Drunk-dazed,Border: Carnival
+Enhypen,Mixed up,Border: Carnival
+Enhypen,Bills,Dark blood
+Enhypen,Go big or go home,Dimension: Answer
+Enhypen,Just a little bit,Dimension: Answer
+NCT DREAM ,Hello future,Hello future
+NCT DREAM ,Life is still going on,Hello future
+NCT DREAM ,Dive into you,Hello future
+NCT DREAM ,We young,We young
+NCT DREAM ,My first and last,The first
+NCT DREAM ,Hot sauce,Hot sauce
+NCT DREAM ,Rainbow ,Hot sauce
+NCT DREAM ,Drippin´,We go up
+NCT DREAM ,We go up ,We go up 
+NCT DREAM ,Glitch mode,Glitch mode
+Jenni Rivera,Las cuentas claras ,Las cuentas claras 
+Jenni Rivera,La tequilera ,Ni tu esposa, Ni tu amante, Ni tu amiga 
+Jenni Rivera,Cuando abra los ojos ,Ni tu esposa, Ni tu amante, Ni tu amiga 
+Jenni Rivera,A escondidas ,Ni tu esposa, Ni tu amante, Ni tu amiga 
+Jenni Rivera,No vayas a jugar,Ni tu esposa, Ni tu amante, Ni tu amiga 
+Jenni Rivera,Ni tu esposa, ni tu amante, ni tu amiga,Ni tu esposa, Ni tu amante, Ni tu amiga 
+Jenni Rivera,Ese hombre ,Ni tu esposa, Ni tu amante, Ni tu amiga 
+Jenni Rivera,Juro que nunca volveré ,Ni tu esposa, Ni tu amante, Ni tu amiga 
+Jenni Rivera,La gran señora ,Ni tu esposa, Ni tu amante, Ni tu amiga 
+Jenni Rivera,Por un amor, cucurrucucú Paloma ,Ni tu esposa, Ni tu amante, Ni tu amiga 
+Alejandro Fernandez,A que sabe el olvidó ,Hecho en México (Edición especial)
+Alejandro Fernandez,Caballero ,Hecho en México (Edición especial)
+Alejandro Fernandez,Mas no se pudo ,Hecho en México (Edición especial)
+Alejandro Fernandez,Por tu adiós ,Hecho en México (Edición especial)
+Alejandro Fernandez,Mentí ,Hecho en México (Edición especial)
+Alejandro Fernandez,La mesa 20,Hecho en México (Edición especial)
+Alejandro Fernandez,Nuestro gran secreto ,Hecho en México (Edición especial)
+Alejandro Fernandez,No lo beses ,Hecho en México (Edición especial)
+Alejandro Fernandez,Duele ,Hecho en México (Edición especial)
+Alejandro Fernandez,Eso y más ,Hecho en México (Edición especial)
+Micro TDH,Ámate,Sencillo
+Micro TDH,Sin tí,Sencillo
+Micro TDH,Cafuné,Sencillo
+Micro TDH,La Culpa (feat. Marc Seguí),Sencillo
+Micro TDH,Amor de Red Social,Sencillo
+Micro TDH,Negro Mate,Sencillo
+Micro TDH,Dime Cuantas Veces (Remix),Sencillo
+Micro TDH,La Chama (feat. Mau y Ricky),Sencillo
+Micro TDH,12x3 (Remix),Sencillo
+Micro TDH,x ti (Remix),Sencillo
+Rels B,la última canción,Sencillo
+Rels B,cómo dormiste?,Sencillo
+Rels B,me olvidé de los 2,Sencillo
+Rels B,un verano en Mallorca,Sencillo
+Rels B,A mi,Sencillo
+Rels B,Sin Mirar Las Señales,Sencillo
+Rels B,pa' quererte,Sencillo
+Rels B,lo que hay x aquí,Sencillo
+Rels B,lejos de ti,Sencillo
+Rels B,Tienes el don,Sencillo
+Cyclo,Olor a Café,Los Hombres También Lloran
+Cyclo,No puedo,Los Hombres También Lloran
+Cyclo,Solo Tuyo,Los Hombres También Lloran
+Cyclo,Para no volver,En Silencio
+Cyclo,Escondido en silencio,En Silencio
+Cyclo,Hijos de la Noche,Happy Piscis
+Cyclo,El cielo de Otra,Happy Piscis
+Cyclo,Davy Jones,Happy Piscis
+Cyclo,Rueda,Happy Piscis
+Cyclo,Un Fantasma Enamorado,Un Fantasma Enamorado
+Rid3r,Romper Conmigo,Toxic To Myself
+Rid3r,Spider-Man,Toxic To Myself
+Rid3r,No entiendes,Toxic To Myself
+Rid3r,Tranquilo,Toxic To Myself
+Rid3r,VETE DE MI,VETE DE MI
+Rid3r,Flor de Loto,Flor de Loto
+Rid3r,QUEMAO,QUEMAO
+Rid3r,Pal Que Sepa Quién Soy(Remix),Pal Que Sepa Quién Soy(Remix)
+Rid3r,NO ES PROPIO DE MÍ,NO ES PROPIO DE MÍ
+Rid3r,PELIGROSA,PELIGROSA
+Zoé,El Duelo,Sonidos de Karmática Resonancia
+Zoé,Últimos Días (MTV Unplugged),MTV Unplugged: Música de Fondo
+Zoé,No Me Destruyas (MTV Unplugged),MTV Unplugged: Música de Fondo
+Zoé,Labios Rotos (MTV Unplugged),MTV Unplugged: Música de Fondo
+Zoé,Azul,Aztlán
+Zoé,Tepoztlán,Sonidos de Karmática Resonancia
+Zoé,Poli Love (MTV Unplugged),MTV Unplugged: Música de Fondo
+Zoé,Infinito (MTV Unplugged),MTV Unplugged: Música de Fondo
+Zoé,10 A.M.,Programatón
+Zoé,Luna (MTV Unplugged),MTV Unplugged: Música de Fondo
+Gustavo Cerati,Fuerza Natural,Fuerza Natural
+Gustavo Cerati,Magia,Fuerza Natural
+Gustavo Cerati,Déjà Vu,Fuerza Natural
+Gustavo Cerati,Rapto,Fuerza Natural
+Gustavo Cerati,Tracción a Sangre,Fuerza Natural
+Gustavo Cerati,Convoy,Fuerza Natural
+Gustavo Cerati,Perdonar es Divino,Bocanada
+Gustavo Cerati,Adiós,Ahí Vamos
+Gustavo Cerati,Lago en el Cielo,Ahí Vamos
+Gustavo Cerati,Naturaleza Muerta,Fuerza Natural
+Pixies,Where Is My Mind?,Surfer Rosa(Remastered)
+The Smiths,Heaven Knows I'm Miserable Now,Hatful of Hollow
+Peter Bjorn and John ,Young Folks,Writer's Block
+Kashmir,Surfing the Warm Industry,Zitilites
+Interpol,Obstacle 1,Turn on the Bringht Lights
+Björk,Venus as a Boy,Debut
+Fobia,200 Sabados,Rosa Venus
+Uchu Nekoko,Flowers,Kimi No Youni Ikiretara
+Uchu Nekoko,Slow,Hino Ataru Basyo Ni Kiteyo
+Lamp,6号室,Single
+20-17,Destiempo,Single
+Mabel Ye,beautiful brain,Still Nineteen
+Loli in early 20s,Da Da Is Tape To and U U U,Tomo Me Nyado
+Japanese Breakfast,Everybody Wants to Love You,Psychopomp
+Uchu Nekoko,Like a Rasberry,Kimi No Youni Ikiretara
+Korn,The Devil Went Down to Georgia,Single
+Current Joys,The Different Age,Single
+Stan Getz,The Girl From Ipanema,Single
+Bloc Party,Banquet,Silent Alarm
+Mando Diao,Dance with Somebody,Give Me Fire
+DPR IAN,So Beautiful,Moodswings In This Order
+DPR IAN,Nerves,Moodswings In This Order
+BIBI,Witch Hunt,Lowlife Princess: Noir 
+BIBI,JOTTO,Lowlife Princess: Noir
+Zior Park,Psycho Love,Psycho Love
+Zior Park,Christian,Where does Sasquatch Live? Pt.1
+Bad Omens,Somebody Else,The Death Of Peace Of Mind
+Bad Omens,Bad Decisions ,The Death Of Peace of Mind
+Caskets,Glass Heart,Lost Souls
+Caskets,Lost in Echoes,Lost Souls
+Silverstein,Bad Habits,A Beautiful Place To Drown
+Silverstein,Madness,A Beautiful Place To Drown
+EXO,Gravity,Don´t Mess Up My Tempo
+EXO,Bad Dream,Don´t Mess Up My Tempo
+Circa Waves,Sorry I´m Yours,What´s Like Over There?
+Circa Waves,Be Somebody Good,What´s Like Over There?
+Interpol,The Rover,Marauder
+Interpol,Complications,Marauder
+NCT 127,Cherry Bomb,Cherry Bomb
+NCT127,Whiplash,Cherry Bomb
+Oasis,Supersonic,Time Flies...1994-2009
+Oasis,Roll with It,Time Flies...1994-2009
+Oasis,Live Forever,Time Flies...1994-2009
+Oasis,Wonderwall,Time Flies...1994-2009
+Oasis,Stop Crying Your Heart Out,Time Flies...1994-2009
+Oasis,Cigarettes & Alcohol,Time Flies...1994-2009
+Oasis,Don't Look Back in Anger,Time Flies...1994-2009
+Oasis,Stand by Me,Time Flies...1994-2009
+Oasis,Lyla,Time Flies...1994-2009
+Oasis,Let There Be Love,Time Flies...1994-2009
+Guns N' Roses,Welcome To The Jungle,Appetite For Destruction
+Guns N' Roses,It's So Easy,           Appetite For Destruction
+Guns N' Roses,Nightrain,Appetite For Destruction
+Guns N' Roses,Mr. Brownstone,Appetite For Destruction
+Guns N' Roses,Paradise City,Appetite For Destruction
+Guns N' Roses ,My Michelle,Appetite For Destruction
+Guns N' Roses,Sweet Child O' Mine,Appetite For Destruction
+The Beatles,Eleanor Rigby,Revolver
+The Beatles,Got To Get You Into My Life,Revolver
+The Beatles,For No One,Revolver
+Travis Scott,90210,Rodeo
+Travis Scott,Apple Pie ,Rodeo
+Travis Scott,Skeletons ,Astroworld
+Enjambre ,Impacto,El segundo es felino 
+Enjambre ,Manía Cardiaca ,El segundo es felino 
+Enjambre ,La duda ,Daltónico 
+Enjambre ,Visita,Daltónico 
+Enjambre ,Elemento ,Los Huéspedes del orbe 
+Mora,Fin del mundo,Primer día de clases 
+Mora,Tuyo,Primer día de clases 
+Mora,Pégate (Remix),Primer día de clases 
+Mora,La inocente ,MICRODOSIS 
+Mora,ESCALOFRÍOS,MICRODOSIS 
+Mora,MODELITO,PARAÍSO
+Mora,QUE HABILIDAD ,PARAÍSO
+Caifanes ,Sombras en tiempos perdidos,El Diablito 
+Caifanes ,De noche todos los gatos son pardos ,El Diablito 
+Red Hot Chili Peppers ,I Could Die for You,By the Way 
+Red Hot Chili Peppers ,Under the Bridge,Blood Sugar Sex Magik
+Yoko Takahashi ,The Cruel Angel´s Thesis ,Neon Genesis Evangelion
+ABBA,Voulez-Vous,Voulez-Vous
+ABBA,Angeleyes,The Essential Collection
+ABBA,Lay all your love on me,ABBA Gold
+ABBA,Dancing Queen,The Essential Collection
+ABBA,Gimmie! Gimmie! Gimmie!,Voulez-Vous
+ABBA,Chiquitita,Voulez-Vous
+ABBA,Mamma Mia,Abba
+ABBA,One Of Us,The Essential Collection
+ABBA,I Have A Dream,Voulez-Vous
+ABBA,Just A Notion,Voyage
+Adele,Rolling in the Deep,21
+Adele,Don't You Remember,21
+Adele,Set fire to the Rain,21
+Adele,Someone Like You,21
+Adele,Hello,25
+Adele,Send My Love,25
+Adele,Oh My God,30
+Adele,Can I Get It,30
+Adele,Easy On Me,30
+Adele,Skyfall,Skyfall
+Nine Inch Nails,Sin,Pretty Hate Machine
+Nine Inch Nails,Reptile,The Downward Spiral
+Nine Inch Nails,All the love in the world,With teeth
+Nine Inch Nails,In this twilight,Year zero
+Nine Inch Nails,All time low,Hesitation marks
+Nine Inch Nails,A copy of a,Hesitation marks
+Nine Inch Nails,Running,Hesitation marks
+Nine Inch Nails,Disappointed,Hesitation marks
+Nine Inch Nails,While I´m still here,Hesitation marks
+Nine Inch Nails,Terrible lie,Pretty Hate Machine
+The 1975,The city,The 1975
+She wants revenge,Red Flags and Long Nights,She wants revenge
+She wants revenge,Up in flames,Valleyheart
+She wants revenge,Must be the one,Valleyheart
+She wants revenge,Not just a girl,Valleyheart
+Machine girl,Frenesi - Machine Girl GabberTrap Mix,Wlfgrl
+No_4mat,1992,1992
+Gesaffelstein,Glass,Variations
+Portugal. The man,Purple Yellow Red and Blue,Evil Friends
+Slaptop,Sunrise,Sunrise
+Harry Styles,Kiwi,Harry Styles
+Harry Styles,As It Was,Harry´s House
+Harry Styles,Sign of the times ,Harry Styles
+Olivia Rodrigo,happier,SOUR
+Olivia Rodrigo,deja vu,SOUR
+Olivia Rodrigo,jealousy, jealousy,SOUR
+One Direction,Strong,Midnight Memories
+One Direction,Where Do Broken Hearts Go,FOUR
+One Direction ,Infinity,Made In The A.M
+Conan Gray,Memories,Superache
+Conan Gray,Maniac,Kid Krow
+Conan Gray,Wish You Were Sober,Kid Krow
+Elsa y Elmar,Ojos Noche,Eres Diamante
+Elsa y Elmar,cómo acaba ,ya no somos los mismos
+Elsa y Elmar,Baby us ,Eres Diamante
+Morat,Simplemente Pasan,¿A dónde Vamos?
+Morat,Acuerdate de mí,Balas Perdidas
+Morat,Nunca Al Revés,SI AYER FUERA HOY
+Humbe,TSQ,ESENCIA
+Humbe,Dieznoches,ENTROPÍA
+Skillet,Legendary,Victorious
+Skillet,Victorious,Victorious
+Skillet,This Is The Kingdom,Victorious
+Papa Roach,Born For Greatness,Crooked Teeth
+Papa Roach,None Of The Above,Crooked Teeth
+Hollywood Undead,Heart Of a Champion,New Empire Vol.2
+Hollywood Undead,Gravity,Day Of The Dead
+From Ashes To New,Trought It All,Day One
+From Ashes To New,My Fight,From Ashes To New
+Smash Into Pieces,Animal,Rise And Shine
+Smash Into Pieces,Arcadia,Arcadia
+Smash Into Pieces,Godsent,Arcadia
+BAND-MAID,Hibana,Sense
+Nickelback,Someday,The Long Road
+Nickelback,Savin' Me,All The Right Reasons
+Nickelback,Burn It To The Ground,Dark Horse
+Nickelback,If Today Was Your Last Day,Dark Horse
+Man With A Mission,Fantasista,Fantasista
+Suisoh,EAR CANDY,EAR CANDY
+The Score,Legend,ATLAS
+A-ha,Take On Me,Hunting High and Low
+Dxrk ダーク,Rave,RAVE
+Mr.Kitty,After Dark,Time
+Girl in Red,we fell love in october,forget her
+Lèpoka,Beerserkers,Beerserkers
+Lèpoka,Sexcalibur,Beerserkers
+Lèpoka,Skal!,Beerserkers
+Lèpoka,Beber para Creer,El baile de los caídos
+Lèpoka,Contra Viento y Marea,El baile de los caídos
+Lèpoka,Seguimos en Pie,El baile de los caídos
+Nirvana,Come as You Are,Nevermind
+Nirvana,Something in the Way,Nevermind
+Nirvana,Smells Like Teen Spirit,Nevermind
+Nirvana,Heart-Shaped Box,In Utero
+Nirvana,Rape Me,In Utero
+Nirvana,About a Girl,Bleach
+Nirvana,Where Did You Sleep Last Night?,MTV Unplugged in New York
+Nirvana,The Man Who Sold the World,MTV Unplugged in New York
+Blue Swede,Hooked On A Feeling,Hooked On A Feeling
+Redbone,Come and Get Your Love,Wovoka
+Hiroshi Kitadani,We Are!,We Are!
+Kidd Keo,Contra,Trap Bandicoot
+Kidd Keo,Woo,Trap Bandicoot
+Kidd Keo,WDYM,Trap Bandicoot
+Kidd Keo,Drugz Education,Trap Bandicoot
+Kidd Keo,4 Dias,Trippy & Trapper
+Kidd Keo,Money Till I Die,Back to Rockport
+Kidd Keo,Moon Talk,Back to Rockport
+Kidd Keo,Playin,Back to Rockport
+Kidd Keo,Rip the woo,Back to Rockport
+Kidd Keo,Miss U,Keoland
+NTO,Toi,Hungry Music Remix
+NTO,Joda,Hungry Music Remix
+NTO,Petite,Hungry Music Remix
+NTO,Oulan Bator,Hungry Music Remix
+NTO,Beyond Control,Apnea
+Popof,Serenity,Serenity(Remixes)
+Popof,Do You Want Me,Love Somebody
+Blunted Vato,Just Do It,Single
+Blunted Vato,Trap Diablo,Single
+Blunted Vato,Break,Single
+Rosendale,Fairytale,Fairytale
+Rosendale,Lost,Lost
+Rosendale,Temptation,Temptation
+Rosendale,Closure,Closure
+Rosendale,Can't Let You Go,Can't Let You Go
+Rosendale,Nightfall,Nightfall
+Rosendale,Falling,Falling
+Rosendale,Euphoria,Euphoria
+Rosendale,Fading,Fading
+Rosendale,Whisper,Whisper
+Indila,Dernière Danse,Mini World
+Indila,Tourner dans le vide,Mini World
+Indila,S.O.S.,Mini World
+Indila,Love Story,Mini World
+Indila,Ego,Mini World
+Indila,Run Run,Mini World
+Indila,Comme un bateau,Mini World
+Indila,Boîte en argent,Mini World
+Indila,Feuille d'automne,Mini World
+Indila,Tu ne m'entends pas,Mini World
+One Republic,Counting Stars,Native
+One Republic,I Ain’t Worried,Top Gun: Maverick
+One Republic,If I Lose Myself,Native
+One Republic,I Lived,Native
+One Republic,Secrets,Waking Up
+One Republic,Love Runs Out,Native
+One Republic,Sunshine,Single
+One Republic,Rescue Me,Single
+One Republic,Apologize,Dreaming Out Loud
+One Republic,Runaway,Single
+347aidan,memories,tribubled memories
+willow,wait a minute,Ardipithecus
+Avenged sevenfold,Bat country,City of evil
+Avenged sevenfold,MIA,City of evil
+Avenged sevenfold,Danger line,Nightmare
+Avenged sevenfold,Nightmare,Nightmare
+Avenged sevenfold,Welcome to the family,Nightmare
+Avenged sevenfold,Save me,Nightmare
+Avenged sevenfold,Shepherd of fire,Hail to the king
+Avenged sevenfold,Hail to the king,Hail to the king
+Wolfmother,Dimension,Wolfmother
+Wolfmother,Apple Tree,Wolfmother
+Wolfmother,Woman,Wolfmother
+Wolfmother,Joker and the thief,Wolfmother
+Wolfmother,Pyramid,Wolfmother
+Wolfmother,Tales,Wolfmother
+Wolfmother,Love Train,Wolfmother
+Red hot chili peppers,Cant stop,By the way
+Amy Winehouse,Fuck me pumps,Frank
